@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/tiffanie-easley1989
 
 
 Scan Below to get a PDF copy of this resume
-![[flowcode.jpg| 500]]
+![](https://i.imgur.com/psOYa9R.png)
 
 Please allow me to tell you a little about myself. 
 
@@ -31,7 +31,6 @@ I am looking for an opportunity to work with a team that runs on clear communica
 
 ## RESEARCH EXPERIENCE                                                                     
 #### Undergraduate Research Assistant  - 2021  to Present
-![[Pasted image 20220410201846.png]]
 - Leadership and Organizational Behavior Lab, University of Alabama in Huntsville
 	-  Design and execute survey based experimental designs using Qualtrics.
 	- Contribute to multi-disciplinary project aimed at developing an autonomous system capable of capturing a flag
