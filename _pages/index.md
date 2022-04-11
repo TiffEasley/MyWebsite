@@ -29,7 +29,9 @@ I am looking for an opportunity to work with a team that runs on clear communica
 - May 2nd, 2022
 - University of Alabama in Huntsville
 
-## RESEARCH EXPERIENCE                                                                     
+## RESEARCH EXPERIENCE
+![](https://i.imgur.com/qqsdpXQ.png)
+
 #### Undergraduate Research Assistant  - 2021  to Present
 - Leadership and Organizational Behavior Lab, University of Alabama in Huntsville
 	-  Design and execute survey based experimental designs using Qualtrics.
