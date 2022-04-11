@@ -14,28 +14,24 @@ LinkedIn: https://www.linkedin.com/in/tiffanie-easley1989
 
 
 Scan Below to get a PDF copy of this resume
-
-<img src="C:\Users\mte00\Documents\GitHub\MyWebsite\assets\Resume QR Logo.png" >
-
+![[flowcode.jpg| 500]]
 
 Please allow me to tell you a little about myself. 
 
 ## About Me
 I am a psychologist who recently graduated from the [UAH - The University of Alabama in Huntsville](https://www.uah.edu/). I am detailed oriented and am continuously striving to create, learn, and diversify. 
 
-
 ## Objective
 I am looking for an opportunity to work with a team that runs on clear communication and focuses on collaboration and results. I want to align myself with a company I believe in and where I can create positive change. I am always looking to learn more and am open to taking on challenging projects.
 
 ## EDUCATION 
 #### Bachelor of Arts in Psychology  
-
 - May 2nd, 2022
 - University of Alabama in Huntsville
 
 ## RESEARCH EXPERIENCE                                                                     
 #### Undergraduate Research Assistant  - 2021  to Present
-
+![[Pasted image 20220410201846.png]]
 - Leadership and Organizational Behavior Lab, University of Alabama in Huntsville
 	-  Design and execute survey based experimental designs using Qualtrics.
 	- Contribute to multi-disciplinary project aimed at developing an autonomous system capable of capturing a flag
