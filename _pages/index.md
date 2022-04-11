@@ -8,9 +8,9 @@ permalink: /
 # Hi I am Tiffanie!
 
 ## Contact Me
-Email : tiffanie.easley89@gmail.com
-Website: tiffanieeasley.netifly.app
-LinkedIn: https://www.linkedin.com/in/tiffanie-easley1989
+- Email : tiffanie.easley89@gmail.com
+- Website: tiffanieeasley.netifly.app
+- LinkedIn: https://www.linkedin.com/in/tiffanie-easley1989
 
 
 Scan Below to get a PDF copy of this resume
